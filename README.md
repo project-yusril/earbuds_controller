@@ -2,6 +2,8 @@
 
 Earbuds Controller App Design By Yusril Eka Mahendra
 
+![Earbuds Controller](https://user-images.githubusercontent.com/65325397/116500081-f9f5c280-a8d7-11eb-87bc-8715579b58a6.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
